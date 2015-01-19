@@ -1,2 +1,3 @@
 # durfees
-Durfee's Prices
+Durfee's Price List
+yaledatascience.github.io/durfees
