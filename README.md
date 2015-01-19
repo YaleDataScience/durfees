@@ -1,3 +1,2 @@
 # durfees
-Durfee's Price List
-yaledatascience.github.io/durfees
+[Durfee's Price List] (yaledatascience.github.io/durfees)
